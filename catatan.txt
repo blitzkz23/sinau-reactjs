@@ -1,0 +1,8 @@
+Coba react
+1. Get started di dokumentasi react
+2. Jsx javascript xml, variabel javascript yang didalamnya ada html
+3. React dom render, jadi react ini sebenarnya merender javascript ini semuanya "root"nya akan dirender komponen yang ada di index.js, jadi app.js di render di index.js, yang kemudia masuk di public/index.html di dalam root akan memiliki beberapa komponen
+4.
+npx create-react-app my-app
+cd my-app
+npm start
